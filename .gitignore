@@ -1,0 +1,14 @@
+*.suo
+*.sdf
+*.sln
+*.db
+*.aps
+*.vcxproj
+*.filters
+*.user
+*.ilk
+*.exe
+*.pdb
+*.ipch
+
+Debug/
